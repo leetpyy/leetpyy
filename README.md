@@ -1,7 +1,11 @@
-# <img src="https://img.shields.io/badge/Hello-👋-blue?style=flat-square"> Devs!
+# Hello 👋 Devs!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/887ee110713134ef2a35ee2a85b8bc4a.gif" width="100%" alt="Better Code, Bigger Dreams">
+  <img
+    src="https://raw.githubusercontent.com/DSVILLA/DSVILLA/main/img/887ee110713134ef2a35ee2a85b8bc4a.gif"
+    width="450"
+    alt="Developer GIF"
+  >
 </p>
 
 <p align="center">
@@ -12,7 +16,7 @@ Me chamo **Marcos** e sou desenvolvedor com experiência em **Python** e **C#**.
 
 Atualmente, estou direcionando meus estudos para o **desenvolvimento Front-end**, enquanto amplio meus conhecimentos em **Back-end**, buscando construir uma base cada vez mais completa como desenvolvedor.
 
-Também venho estudando **Inteligência Artificial** e ferramentas que auxiliam o desenvolvimento de software, explorando como essas tecnologias podem automatizar tarefas, melhorar processos e aumentar a produtividade.
+Também venho estudando **Inteligência Artificial** e ferramentas que auxiliam o desenvolvimento de software, explorando como essas tecnologias podem automatizar tarefas, melhorar processos e aumentar a produtividade durante o desenvolvimento.
 
 Gosto de aprender na prática, experimentar novas tecnologias e transformar ideias em projetos.
 
@@ -24,8 +28,9 @@ Mas talvez seja justamente isso que torna tudo mais divertido. ♥️
 ### 🚀 Core Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://raw.githack.com/marcospyy/marcospyy/main/img/python.png" width="50">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/marcospyy/marcospyy/main/img/sharp.svg" width="50">
 </p>
 
 ---
@@ -34,8 +39,8 @@ Mas talvez seja justamente isso que torna tudo mais divertido. ♥️
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white">
 </p>
 
 <p align="center">
@@ -54,19 +59,20 @@ Mas talvez seja justamente isso que torna tudo mais divertido. ♥️
 ### 📚 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front--end%20Development-00CFFF?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Back--end%20Development-7B2FFF?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Front--end%20Development-61DAFB?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/Back--end%20Development-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/AI%20%26%20Developer%20Tools-171717?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%20%26%20Developer%20Tools-000000?style=for-the-badge&logo=openai&logoColor=white">
 </p>
 
 <p align="center">
   <samp>
     Atualmente focado em aprimorar meus conhecimentos em desenvolvimento web,
-    explorando novas ferramentas, frameworks e tecnologias do ecossistema moderno.
+    explorando novas ferramentas, frameworks e tecnologias que fazem parte do
+    ecossistema moderno de desenvolvimento.
   </samp>
 </p>
 
@@ -75,29 +81,35 @@ Mas talvez seja justamente isso que torna tudo mais divertido. ♥️
 ### 🎮 Other Interests & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenCode-202020?style=for-the-badge&logo=opencode&logoColor=white">
-  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCode-202020?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode">
+  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
 </p>
 
 <p align="center">
   <samp>
     Games, desenvolvimento de jogos, design, inteligência artificial,
-    ferramentas de programação e cibersegurança fazem parte dos meus interesses.
+    ferramentas de programação e cibersegurança fazem parte dos meus interesses
+    no universo da tecnologia.
   </samp>
 </p>
 
 ---
 
-### 🌐 Connect with me
+### Connect with me 😎
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcossousa93/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img
+      align="center"
+      alt="LinkedIn Marcos"
+      width="30px"
+      src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg"
+    />
   </a>
 </p>
