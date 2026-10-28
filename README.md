@@ -108,7 +108,7 @@ Mas talvez seja justamente isso que torna tudo mais divertido. ♥️
 ### Connect with me 😎
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcossousa93/">
+  <a href="https://www.linkedin.com/in/???/">
     <img
       align="center"
       alt="LinkedIn Marcos"
